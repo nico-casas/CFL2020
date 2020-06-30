@@ -1,0 +1,8 @@
+.miDiv, .miDiv2, .miDiv3 {
+    background-color: red;
+    border: 1px solid black;
+}
+
+.ocultar {
+    display: none;
+}

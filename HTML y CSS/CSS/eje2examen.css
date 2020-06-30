@@ -1,0 +1,16 @@
+.general {
+    background-color: grey;
+}
+.texto {
+    color: yellow;
+    background-color: red;
+}
+
+p {
+    color:blue;
+    background-color: brown;
+}
+
+.lista {
+    color: coral;
+}

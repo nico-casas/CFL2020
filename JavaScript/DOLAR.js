@@ -1,0 +1,10 @@
+let valor_dolar;
+valor_dolar = 90;
+console.log (valor_dolar);
+let cantidad = 200;
+console.log (cantidad);
+console.log (valor_dolar*cantidad);
+let precio = 10;
+console.log(precio);
+precio = 700;
+console.log(precio);

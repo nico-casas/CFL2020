@@ -1,0 +1,24 @@
+/* p.main {
+    color: red;
+} */
+
+/* div p span {
+    color: red;
+} */
+
+/* div > p {
+    color: red;
+} */
+
+span:hover {
+    color: red;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: yellow;
+}
+

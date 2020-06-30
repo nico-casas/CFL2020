@@ -1,0 +1,23 @@
+.principal {
+    background-color: gold;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.secundario {
+    background-color: blueviolet;
+    border: 50px solid black;
+    margin: 60px;
+    padding: 10px;
+}
+
+.secundario1 {
+    background-color: red;
+    border: 70px solid greenyellow;
+    margin: 60px;
+    padding: 10px;
+}

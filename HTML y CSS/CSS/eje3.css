@@ -1,0 +1,100 @@
+.divEncabezado {
+    background-color: silver;
+    border: 1px solid black;
+    margin: 10px;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.divEnc2 {
+    display: flex;
+    justify-content: space-between;
+}
+.divLogoYMenu {
+    align-self: flex-end;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.divMenu1 {
+    background-color:green;
+    border: 1px solid black;
+    width: 20%;
+    color: white;
+    padding-left: 30px;
+}
+.divLogo {
+    background-color: blue;
+    border: 1px solid black;
+    width: 25%;
+    align-self: flex-end;
+    color: white;
+    padding: 10px;
+}
+.divMenu2 {
+    background-color: brown;
+    border: 1px solid black;
+    width: 65%;
+    align-self: flex-end;
+    color: white;
+    padding: 10px;
+}
+.divIzqCentDer{
+    display: flex;
+    height: 300px;
+    justify-content: space-between;
+    padding: 10px;
+}
+.divIzquierda, .divCentro, .divDerecha {
+    background-color: grey;
+    border: 1px solid black;
+    width: 30%;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.divCentro {
+    background-color: turquoise;
+}
+.divDerecha {
+    background-color: orange;
+}
+.divIzqDer2 {
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    height: 300px;
+}
+.divIzquierda2 {
+    background-color: darkgreen; 
+    border: 1px solid black;
+    width: 65%;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.divDerecha2 {
+    background-color: coral;
+    border: 1px solid black;
+    width: 30%;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.divPie {
+    background-color: deepskyblue;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.divElemento {
+    background-color: blue;
+    border: 1px solid black;
+    margin: 20px;
+    color: white;
+}

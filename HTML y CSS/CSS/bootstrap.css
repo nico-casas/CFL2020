@@ -1,0 +1,15 @@
+.div-iguales{
+    background-color: red;
+    height: 300px;
+    border: 1px solid black;
+}
+.div-distintos {
+    background-color: yellow;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.carr {
+    height: 300px;
+    align-items: stretch;
+}

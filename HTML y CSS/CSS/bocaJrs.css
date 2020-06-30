@@ -1,0 +1,37 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+    font-size: 40px;
+}
+
+p {
+    color: blue;
+    background-color: yellow;
+
+}
+
+h2 {
+    color: yellow;
+    background-color: blue;
+}
+
+img {
+    width: 700px;
+}
+
+body {
+    background-color: gold;
+}
+
+.div1{
+display: flex;
+border: 20px solid white;
+margin: 20px;
+padding: 10Px;
+}
+
+.div2{
+background-color: blue;
+display: flex;
+border: 20px solid black;
+}

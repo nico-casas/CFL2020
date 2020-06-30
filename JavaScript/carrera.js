@@ -1,0 +1,13 @@
+let readline = require ('readline-Sync');
+let vuelta1 = readline.questionFloat ("Ingrese el tiempo de la vuelta N°1: ");
+console.log ("El tiempo de la vuelta 1 es: " + vuelta1 + " minutos");
+let vuelta2 = readline.questionFloat ("Ingrese el tiempo de la vuelta N°2: ");
+console.log ("El tiempo de la vuelta 2 es: " + vuelta2 + " minutos");
+let vuelta3 = readline.questionFloat ("Ingrese el tiempo de la vuelta N°3: ");
+console.log ("El tiempo de la vuelta 3 es: " + vuelta3 + " minutos");
+let vuelta4 = readline.questionFloat ("Ingrese el tiempo de la vuelta N°4: ");
+console.log ("El tiempo de la vuelta 4 es: " + vuelta4 + " minutos");
+let tiempototal = (vuelta1+vuelta2+vuelta3+vuelta4);
+console.log ("El tiempo total es: " + tiempototal + " minutos");
+let promediovuelta = (tiempototal/4);
+console.log ("El promedio de vuelta es: " + promediovuelta + " minutos");

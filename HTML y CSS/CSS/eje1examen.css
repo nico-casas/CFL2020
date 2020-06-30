@@ -1,0 +1,18 @@
+body {
+    background-color: grey;
+}
+h1 {
+    color: red;
+}
+.carlos {
+    width: 300px;
+}
+
+.div2 {
+    width: 500px;
+    display: flex;
+}
+.diva2 {
+    display: flex;
+    justify-content: center;
+}
